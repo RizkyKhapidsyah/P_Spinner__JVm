@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P_Spinner__JVm</string>
+    <string name="TV_KotaAwal">Pilih Kota Awal :</string>
+    <string name="TV_KotaAkhir">Pilih Kota Akhir :</string>
+    <string name="TV_Biaya">Biaya :</string>
+    <string name="TV_BiayaHasil">Rp</string>
+    <string name="B_Proses">Proses</string>
+    <string name="B_Keluar">Keluar</string>
+    <string name="BertanyaKeluar">Keluar dari aplikasi?</string>
+    <string name="JawabanPositif">Ya</string>
+    <string name="JawabanNegatif">Enggak</string>
+</resources>
